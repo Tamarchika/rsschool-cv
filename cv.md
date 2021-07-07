@@ -16,8 +16,8 @@ My goal is to become a successful web developer. First goal is Front-End, second
  4. JS
  5. JQUERY
  6. BOOTSTRAP
- 7. REACT
- 8. REDUX
+ 7. REDUX
+ 8. REACT
 
 ## Code examples
 ### This is my own solution of  Caesar cipher algorithm
