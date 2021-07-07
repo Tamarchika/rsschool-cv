@@ -51,6 +51,6 @@ I dont have work experience. But I have certification of FreeCodeCamp: https://w
 
 ## Languages
 
-Georgian ( native ) 
-Russian ( good )
-English ( B2 level ) 
+Georgian ( Native ) 
+Russian ( Good )
+English ( B2 Level ) 
